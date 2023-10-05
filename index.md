@@ -8,3 +8,12 @@
 added 6th markdown header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` c
+char myVar[14] = "Hello World !";
+```
+
+``` python
+myVar = "Hello World !"
+```
